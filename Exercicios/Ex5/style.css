@@ -1,0 +1,54 @@
+body{
+    background-image: linear-gradient(45deg, #277fa1, #5a747e) ;
+    font: normal 15pt Arial;
+    height: 100%;
+    background-image: url('linda.jpg');
+}
+
+header{
+    color: #32DE8A;
+    text-align: center;
+    text-shadow: 5px 5px 3px #779CAB;
+}
+
+section{
+    background-image: url('camila2.jpg');
+    background-position: 50%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.705);
+}
+
+div {
+    padding: 5px;
+    line-height: 30px;
+}
+
+footer{
+    color: #627C85;
+    text-align: center;
+    font-style: italic;
+    font-size: 100px;
+}
+
+img {
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+
+select{
+    width: 600px;
+}
+
+h2{
+    text-align: center;
+    font-size: 150px;
+
+}
+a{
+    color: #627C85;
+}
